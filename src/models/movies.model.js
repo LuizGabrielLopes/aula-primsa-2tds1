@@ -7,7 +7,7 @@ class MovieModel {
 
     return {
       total: movies.length,
-      games,
+      movies,
     };
   }
 
